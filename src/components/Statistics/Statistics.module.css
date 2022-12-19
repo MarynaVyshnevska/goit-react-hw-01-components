@@ -1,0 +1,15 @@
+.statistics {
+    width: 350px;
+    margin: 0 auto;
+    background-color: white;
+
+}
+.title {
+    text-transform: uppercase;
+    color: grey;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 24px;
+}
