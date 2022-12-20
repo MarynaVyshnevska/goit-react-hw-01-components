@@ -5,7 +5,12 @@
     justify-content: center;
     align-items: center;
     font-weight: 16px;
-    
+}
+table {
+    border-radius: 5px;
+    box-shadow: 0 2px 6px rgb(0 0 0 / 14%),
+                0 2px 2px rgb(0 0 0 / 14%),
+                0 4px 2px -2px rgb(0 0 0 / 14%);
 }
 th {
     width: 33.33%;
